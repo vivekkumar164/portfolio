@@ -18,7 +18,7 @@ function Navbar() {
                 </ul>
             </div>
 
-            <button className="button n-button">Contact us</button>
+            <button className="button n-button">Contact</button>
         </div>
     </div>
   )
